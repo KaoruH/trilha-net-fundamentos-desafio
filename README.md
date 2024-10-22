@@ -2,8 +2,8 @@
 www.dio.me
 
 ## Branchs
-- Main: resolução do desafio com modificação para .NET 8
-- Desafio-Com-HashSet: desafio modificando List para HashSet
+- **Main**: resolução do desafio com modificação para .NET 8
+- **Desafio-Com-HashSet**: desafio modificando List para HashSet
 
 ## Desafio de projeto
 Para este desafio, você precisará usar seus conhecimentos adquiridos no módulo de fundamentos, da trilha .NET da DIO.
